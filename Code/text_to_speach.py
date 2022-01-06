@@ -1,4 +1,4 @@
-import azure.cognitiveservices.speech as speechsdk
+# import azure.cognitiveservices.speech as speechsdk
 # from pygame import mixer, time
 import io
 subscription_key = "2129d8c1fe3a4d63973d9023ecc14a47"
