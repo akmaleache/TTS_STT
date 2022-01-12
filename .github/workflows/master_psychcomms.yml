@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'PsychComms'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51286902EBAD43A78F275D992EEB1BA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71AF86CC234B4C54858E9D94D0751FF0 }}
