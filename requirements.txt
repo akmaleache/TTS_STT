@@ -13,3 +13,4 @@ Flask-SQLAlchemy
 pymysql
 eldar==0.0.7
 unidecode
+fuzzywuzzy
