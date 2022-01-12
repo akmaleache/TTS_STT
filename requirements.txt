@@ -1,15 +1,13 @@
 django==2.2.5
 dnspython
-pymongo[srv]
+pyodbc
 pandas
 djangorestframework
 django-cors-headers
 celery==4.4.7
-pymongo
-facebook-sdk
 google-auth-oauthlib
+syllables
 google-api-python-client
-pymongo
 redis==2.10.5
 Flask-SQLAlchemy
 pymysql
